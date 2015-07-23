@@ -1,0 +1,10 @@
+F:\unity\VID_Demo\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+F:\unity\VID_Demo\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+F:\unity\VID_Demo\Temp\UnityVS_bin\Debug\UnityEditor.dll
+F:\unity\VID_Demo\Temp\UnityVS_bin\Debug\UnityEngine.dll
+F:\unity\VID_Demo\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+F:\unity\VID_Demo\Temp\UnityVS_bin\Debug\UnityEngine.xml
+F:\unity\VID_Demo\Temp\UnityVS_bin\Debug\UnityEditor.xml
+F:\unity\VID_Demo\obj\Debug\UnityVS.VID_Demo.CSharp.csprojResolveAssemblyReference.cache
+F:\unity\VID_Demo\obj\Debug\Assembly-CSharp.dll
+F:\unity\VID_Demo\obj\Debug\Assembly-CSharp.pdb

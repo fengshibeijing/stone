@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "heartstonev1", "heartstonev1\heartstonev1.vcxproj", "{5C5B4B2F-56DC-4574-B9E1-7359BDEFF466}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "StoneV1", "StoneV1\StoneV1.vdproj", "{FA4961FB-EF78-47DE-ABF2-F79C21B1A2E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C5B4B2F-56DC-4574-B9E1-7359BDEFF466}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5C5B4B2F-56DC-4574-B9E1-7359BDEFF466}.Debug|Win32.Build.0 = Debug|Win32
+		{5C5B4B2F-56DC-4574-B9E1-7359BDEFF466}.Release|Win32.ActiveCfg = Release|Win32
+		{5C5B4B2F-56DC-4574-B9E1-7359BDEFF466}.Release|Win32.Build.0 = Release|Win32
+		{FA4961FB-EF78-47DE-ABF2-F79C21B1A2E3}.Debug|Win32.ActiveCfg = Debug
+		{FA4961FB-EF78-47DE-ABF2-F79C21B1A2E3}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
